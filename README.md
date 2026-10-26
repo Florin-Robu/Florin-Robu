@@ -3,7 +3,7 @@
 🎮 **Game Developer & Game Designer** at [Hyper Hippo Entertainment](https://hyperhippo.com)
 📍 Alberta, Canada
 
-I make games, mostly in Unity and C#. I like idle and match-style game loops, the tools and pipelines behind them, and small web apps and utilities that make dev work easier.
+I make games, mostly in Unity and C#. I like making them, the tools and pipelines behind them, and small web apps and utilities that make dev work easier.
 
 ## 🛠️ Tech I use
 
