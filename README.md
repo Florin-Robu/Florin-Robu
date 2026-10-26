@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=200&section=header&text=Florin%20Robu&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Game%20Developer%20%26%20Game%20Designer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Florin Robu" />
+<img src="assets/header.svg" width="100%" alt="Florin Robu" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Game+Developer;Game+Designer;Certified+Production+Destroyer" alt="Game Developer, Game Designer, Certified Production Destroyer" />
+<img src="assets/typing.svg" alt="Game Developer, Game Designer, Certified Production Destroyer" />
 
 <a href="https://hyperhippo.com"><img src="https://img.shields.io/badge/Hyper%20Hippo-Entertainment-7F00FF?style=for-the-badge" alt="Hyper Hippo Entertainment" /></a>
 <a href="https://www.linkedin.com/in/florin-robu-134597206/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -46,4 +46,4 @@ I make games, mostly in Unity and C#. I like making them, the tools and pipeline
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=120&section=footer" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
