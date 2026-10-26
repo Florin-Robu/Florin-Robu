@@ -8,7 +8,11 @@ I make games, mostly in Unity and C#. I like making them, the tools and pipeline
 
 ## 🛠️ Tech I use
 
-[![My Skills](https://skillicons.dev/icons?i=unity,cs,cpp,ts,js,python,nodejs,react,html,css,git,github,jenkins,gcp,vscode,linux&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,dotnet,cpp,ts,js,python,nodejs,react,html,css,git,github,bitbucket,jenkins,gcp,vscode,linux&perline=9)](https://skillicons.dev)
+
+- **Backend:** ASP.NET 8 & 10
+- **CI/CD & Cloud:** Jenkins, Google Cloud Platform
+- **Atlassian stack:** Bitbucket, Jira, Confluence
 
 ## 📌 Public projects
 
